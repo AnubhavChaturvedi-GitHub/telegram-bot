@@ -60,11 +60,7 @@ pip install -r requirements.txt
 - `/setlang` – Change your preferred language
 - `/media` – Send/receive media files
 
-## 🖼️ Demo
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnubhavChaturvedi-GitHub/telegram-bot/main/assets/demo-animated.svg" width="450" alt="Bot Demo Animation"/>
-</p>
 
 ## 🌟 Contributing
 
@@ -88,13 +84,7 @@ This project is [MIT](LICENSE) licensed.
 
 ---
 
-<!-- Footer Animated SVG -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnubhavChaturvedi-GitHub/telegram-bot/main/assets/footer-animated.svg" width="250" alt="Made with Python Animated"/>
-</p>
 
-<p align="center">
   <b>Made with Python & Telegram API • By AnubhavChaturvedi-GitHub</b>
 </p>
 
-<!-- SVG files (assets/telegram-bot-animated.svg, assets/animated-divider.svg, assets/demo-animated.svg, assets/footer-animated.svg) should be created and placed in the assets folder. -->
