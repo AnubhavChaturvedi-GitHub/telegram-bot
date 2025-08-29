@@ -1,17 +1,9 @@
-<!-- Animated SVG Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnubhavChaturvedi-GitHub/telegram-bot/main/assets/telegram-bot-animated.svg" width="600" alt="Telegram Bot Animated Banner"/>
-</p>
 
 <h1 align="center">🤖 Telegram Bot</h1>
 <p align="center">
   <b>Advanced, Modular & Professional Telegram Bot<br>Built with ❤️ by <a href="https://github.com/AnubhavChaturvedi-GitHub">AnubhavChaturvedi-GitHub</a></b>
 </p>
 
-<!-- Animated SVG Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnubhavChaturvedi-GitHub/telegram-bot/main/assets/animated-divider.svg" width="400" alt="Animated Divider"/>
-</p>
 
 ## 🚀 Features
 
