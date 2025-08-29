@@ -1,4 +1,8 @@
-
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red">
+    <animate attributeName="r" values="40;20;40" dur="1s" repeatCount="indefinite"/>
+  </circle>
+</svg>
 <h1 align="center">🤖 Telegram Bot</h1>
 <p align="center">
   <b>Advanced, Modular & Professional Telegram Bot<br>Built with ❤️ by <a href="https://github.com/AnubhavChaturvedi-GitHub">AnubhavChaturvedi-GitHub</a></b>
