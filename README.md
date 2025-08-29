@@ -16,12 +16,9 @@
     <path d="M-15,-8 L15,0 L-15,8 L-10,0 Z" fill="white">
       <animateTransform attributeName="transform" type="translate" values="0,0;3,0;0,0" dur="1.5s" repeatCount="indefinite"/>
     </path>
-    
-    <!-- Small dot/message indicator -->
     <circle cx="5" cy="0" r="1.5" fill="white" opacity="0.8">
       <animate attributeName="opacity" values="0.8;0.3;0.8" dur="1s" repeatCount="indefinite"/>
     </circle>
-    
     <!-- Motion lines for send effect -->
     <g opacity="0.6">
       <line x1="16" y1="-2" x2="22" y2="-3" stroke="white" stroke-width="1">
